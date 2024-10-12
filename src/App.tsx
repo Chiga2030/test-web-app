@@ -18,10 +18,6 @@ function App () {
         >
           Learn React
         </a>
-
-        <a className="App-link" href="https://t.me/automax_vag2/s/5" target="_blank" rel="noopener noreferrer">
-          story
-        </a>
       </header>
     </div>
   );
